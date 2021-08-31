@@ -1,10 +1,10 @@
 {
-  "name": "Nombre",
+  "name": "Cobra",
   "version": "0.0.0",
   "description": "",
   "main": "Cobra.js",
   "scripts": {
-  "start": "node nombre del archivo creado anteriormente.js"
+  "start": "Cobra.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
