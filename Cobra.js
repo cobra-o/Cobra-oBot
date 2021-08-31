@@ -9,7 +9,7 @@ async function iniciar () {
         client.on('qr', () => {
         })
 
-        fs.existsSync('./Samu330.json') && client.loadAuthInfo('./Samu330.json')
+        fs.existsSync('./Cobra.json') && client.loadAuthInfo('./Cobra.json')
 
         client.on('connecting', () => {
         console.log('Conectando')
